@@ -1,6 +1,6 @@
-# Contributor License Agreement — Encelade Technologies
+# Contributor License Agreement — Nubster
 
-This repository contains the **Contributor License Agreement (CLA)** that applies to all open source projects published under the [`nubster-opensources`](https://github.com/nubster-opensources) GitHub organisation, owned by Encelade Technologies.
+This repository contains the **Contributor License Agreement (CLA)** that applies to all open source projects published under the [`nubster-opensources`](https://github.com/nubster-opensources) GitHub organisation, owned by Nubster.
 
 ## Why a CLA?
 
@@ -9,7 +9,7 @@ A Contributor License Agreement is a standard mechanism used by open source proj
 The CLA used here is a **License Grant**, not a copyright assignment:
 
 - **You keep the copyright** on every contribution you make.
-- **You grant Encelade Technologies a broad licence** to use, modify, sub-licence, and re-licence your contribution, including under different terms in the future (for example, dual-licensing or source-available licences for managed services).
+- **You grant Nubster a broad licence** to use, modify, sub-licence, and re-licence your contribution, including under different terms in the future (for example, dual-licensing or source-available licences for managed services).
 - The version of your contribution distributed under the original open source licence (Dual MIT OR Apache-2.0) **remains perpetually available** under that licence.
 
 This is the same model used by Apache projects, Google open source, and most commercially-backed open source projects.
@@ -30,7 +30,7 @@ See [CLA.md](CLA.md) for the full agreement.
 
 ## Questions
 
-If you have questions about the CLA, please open an issue in this repository or contact `legal@encelade.tech`.
+If you have questions about the CLA, please open an issue in this repository or contact `legal@nubster.com`.
 
 ## Notes for maintainers
 
